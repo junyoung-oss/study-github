@@ -11,10 +11,10 @@
 ---
 
 ## 📖 학습 내용
-- [GitHub 기초 개념](docs/basic.md)
-- [브랜치와 머지](docs/branch-merge.md)
-- [GitHub Actions](docs/github-actions.md)
-- [Issue & Pull Request 활용](docs/issue-pr.md)
+- [GitHub 기초 개념]([docs/basic.md](https://sseozytank.tistory.com/41))
+- [브랜치와 머지]([docs/branch-merge.md](https://git-scm.com/book/ko/v2/Git-%EB%B8%8C%EB%9E%9C%EC%B9%98-%EB%B8%8C%EB%9E%9C%EC%B9%98%EC%99%80-Merge-%EC%9D%98-%EA%B8%B0%EC%B4%88))
+- [GitHub Actions]([docs/github-actions.md](https://zzsza.github.io/development/2020/06/06/github-action/))
+- [Issue & Pull Request 활용]([docs/issue-pr.md](https://devwriter.tistory.com/42))
 
 ---
 
